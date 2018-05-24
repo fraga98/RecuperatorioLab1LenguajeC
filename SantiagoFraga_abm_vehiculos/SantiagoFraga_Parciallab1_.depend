@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1526523223 source:c:\users\familia\desktop\santiagofraga_parciallab1_\liv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liv.h"
+
+1526523115 c:\users\familia\desktop\santiagofraga_parciallab1_\liv.h
+
+1526523229 source:c:\users\familia\desktop\santiagofraga_parciallab1_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"liv.h"
+
